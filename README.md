@@ -1,4 +1,4 @@
-![LoRA](https://github.com/TheStoneMX/LoRA/blob/cb530a7ded273c1070385b60e7fb9ad516bcdea3/LoRA%20Tutorial.ipynb)
+![LoRA](https://github.com/TheStoneMX/LoRA/blob/f51e44e1688e69c5338acbe2ae1594515ba61883/LoRA%20(Low-Rank%20Adaptation).webp)
 # LoRA
  A detailed Tutorial showing the process of fine-tuning a causal language model using LoRA (Low-Rank Adaptation). 
 
